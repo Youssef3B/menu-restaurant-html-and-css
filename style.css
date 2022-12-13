@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rech, .prix, .categories{
+    box-shadow: rgba(0, 0, 0, 0.364) 0px 1px 4px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.rech input{
+    padding: 4px 12px;
+    border-radius: 6px;
+    border: rgba(0, 0, 0, 0.356) 1px solid;
+}
+.col-lg-3 img{
+    border-radius: 10px;
+}
+.col-lg-3 h5{
+    text-align: center;
+}
+.col-lg-3 p{
+    text-align: center;
+    color: rgb(45, 179, 45);
+    font-weight: 600;
+}
